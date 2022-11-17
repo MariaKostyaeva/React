@@ -1,2 +1,2 @@
 # React
-Изучение React по книге - "React в действии" (Марк Тиленс Томас)
+Learning React from the book "Reach in Action" (Mark Tilens Thomas)
